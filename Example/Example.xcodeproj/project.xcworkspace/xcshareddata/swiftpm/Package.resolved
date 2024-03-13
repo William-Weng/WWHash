@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/William-Weng/WWHash",
       "state" : {
-        "branch" : "main",
-        "revision" : "64bafa2abe375c9eefde0ea4ce679ebbbd991d8f"
+        "revision" : "9728f847b41a073711300198534f4b8fe81254d6",
+        "version" : "1.0.0"
       }
     },
     {

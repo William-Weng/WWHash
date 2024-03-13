@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .target(name: "WWHash", dependencies: []),
+        .target(name: "WWHash", resources: [.copy("Privacy")]),
     ],
     swiftLanguageVersions: [
         .v5
